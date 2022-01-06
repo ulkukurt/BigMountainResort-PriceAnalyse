@@ -1,4 +1,4 @@
-# Guided-Capstone
+# Big Mountain Resort - Price Analyse
 BIG MOUNTAIN RESORT
 In this project, the data of the 330 resorts in the US was investigated to recoup the increased
 operating costs of the Big Mountain Resort.
