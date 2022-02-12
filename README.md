@@ -10,6 +10,7 @@ season are directly proportional with the cost of an adult weekday-weekend chair
 
 ![Screenshot 2022-01-06 142531](https://user-images.githubusercontent.com/61709276/148439978-78cf37a7-9199-4acb-9f6e-575eda1585c1.png)
 
+
 ![Screenshot 2022-01-06 142619](https://user-images.githubusercontent.com/61709276/148440052-5274002d-b753-4c9c-a345-06574487a8c2.png)
 
 Total number of days open last year and projected days open in the upcoming season are
